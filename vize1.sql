@@ -1,4 +1,5 @@
-﻿CREATE TABLE marka --markaları girdim
+CREATE DATABASE Galeri --database oluşturdum
+CREATE TABLE marka --markaları girdim
 (
 Id int not null,
 Marka nvarchar(20)not null,
